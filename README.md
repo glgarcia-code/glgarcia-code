@@ -1,6 +1,6 @@
 ### Hello World! Eu sou Gabriel Garcia 🖐🏼
 
-![glggarcia GitHub stats](https://github-readme-stats.vercel.app/api?username=glggarcia&show_icons=true&theme=dracula&count_private=true)
+![glggarcia GitHub stats](https://github-readme-stats.vercel.app/api?username=glgarcia-code&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
